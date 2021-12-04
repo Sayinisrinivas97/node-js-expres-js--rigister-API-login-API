@@ -5,3 +5,8 @@
 - bcrypt
   - bcrypt.hash()
   - bcrypt.compare()
+
+
+
+intall third-party packeges 
+npm install bcrypt --save
